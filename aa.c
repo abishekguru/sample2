@@ -3,7 +3,8 @@
 #include<sttring>
 int main()
 {
-	inta;
+	int a;
 	scanf("%d",&a);
 	printf("%d",a);
+	
 }
